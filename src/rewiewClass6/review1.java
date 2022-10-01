@@ -3,7 +3,7 @@ package rewiewClass6;
 public class review1 {
     public static void main(String[] args) {
         //how would you reverse a string without using reverse function
-        /*
+       /*
         1. use StringBuilder and Reverse method
          */
                 //to charArray HW
