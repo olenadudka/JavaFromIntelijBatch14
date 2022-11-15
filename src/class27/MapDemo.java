@@ -10,5 +10,6 @@ public class MapDemo {
 
         System.out.println(data);
         System.out.println(data.get("Password"));//how we can get back the values
+
     }
 }
